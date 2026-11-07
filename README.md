@@ -1,118 +1,192 @@
+<div align="center">
+
+<img src="assets/gdg-club-logo.png" alt="GDG on Campus RIT Hassan Logo" width="150">
+
 # 🚀 CODESTORM 2026
 
-### November Edition | GDG on Campus – RIT Hassan
+### NOVEMBER EDITION
 
-**Think. Create. Innovate. Build the Future.**
+**GDG ON CAMPUS – RIT HASSAN**
 
-Welcome to CODESTORM 2026, a technical challenge initiative organized by Google Developer Groups on Campus, Rajeev Institute of Technology, Hassan.
+### Think. Create. Innovate. Build the Future.
 
-CODESTORM encourages students to explore technology, develop practical skills, solve real-world problems, and transform innovative ideas into working solutions.
+[![Event](https://img.shields.io/badge/EVENT-CODESTORM%202026-blue?style=for-the-badge)](https://github.com/Yashawantha26/codestorm-2026)
+[![Edition](https://img.shields.io/badge/EDITION-NOVEMBER%202026-orange?style=for-the-badge)](https://github.com/Yashawantha26/codestorm-2026)
+[![Community](https://img.shields.io/badge/COMMUNITY-GDG%20ON%20CAMPUS-green?style=for-the-badge)](https://gdg-rit-website.vercel.app/)
+
+**Welcome to CODESTORM 2026!**
+
+A technical challenge initiative organized by Google Developer Groups on Campus – Rajeev Institute of Technology, Hassan.
+
+CODESTORM is a platform for passionate student developers to explore technology, showcase creativity, strengthen technical skills, solve real-world problems, and transform innovative ideas into working solutions.
+
+<br>
+
+[🌐 Official Website](https://gdg-rit-website.vercel.app/) •
+[📸 Instagram](https://www.instagram.com/gdg_club_rit/) •
+[📝 Register Now](https://docs.google.com/forms/d/e/1FAIpQLSfiNUxgTFl5OUxDKGxGDlW-bbP6dp5K-6jYpWEdOtIbNw8vig/viewform)
+
+</div>
 
 ---
 
-## 🏛️ Organized By
+## 🏛️ ABOUT THE EVENT
 
-**Google Developer Groups on Campus – RIT Hassan**
-
-**Institution:** Rajeev Institute of Technology, Hassan  
-**Department:** Computer Science and Engineering  
-**Edition:** November 2026
+| Details | Information |
+|:---|:---|
+| 🚀 Event Name | CODESTORM 2026 |
+| 📅 Edition | November Edition |
+| 🏢 Organizer | GDG on Campus – RIT Hassan |
+| 🎓 Institution | Rajeev Institute of Technology, Hassan |
+| 💻 Department | Computer Science and Engineering |
+| 👥 Participation | Individual / Team |
+| ⚡ Difficulty | Beginner to Advanced |
+| 🌐 Mode | Online Registration |
 
 ---
 
 ## 🏆 CHALLENGES
 
-### 💻 Challenge 01 – Website Building Challenge
+Two exciting technical challenges designed to encourage creativity, innovation, and practical development skills.
 
-Design and develop a professional, responsive, and interactive website that demonstrates your frontend or full-stack development skills.
+### 💻 CHALLENGE 01 — WEBSITE BUILDING CHALLENGE
 
-**Focus Areas:**
-- Creative UI/UX Design
-- Responsive Web Development
-- Frontend Development
-- Full-Stack Development
-- Database Integration
-- Real-World Functionality
+**Design. Develop. Deploy.**
 
-[Explore Challenge 01](challenges/challenge-01-website-building/README.md)
+Build a professional, responsive, and interactive website that demonstrates your frontend or full-stack development capabilities.
 
-### 💡 Challenge 02 – Real-World Problem & Solution
+**🎯 Focus Areas**
 
-Identify a real-world problem and develop a technology-based solution that can create a positive impact.
+- 🎨 Creative UI/UX Design
+- 📱 Responsive Web Development
+- 💻 Frontend Development
+- ⚙️ Full-Stack Development
+- 🗄️ Database Integration
+- 🚀 Real-World Functionality
 
-**Focus Areas:**
-- Problem Identification
-- Innovative Thinking
-- Technology-Based Solutions
-- Practical Implementation
-- Social Impact
+**Objective:** Transform your ideas into a functional and professional website.
 
-[Explore Challenge 02](challenges/challenge-02-real-world-solutions/README.md)
+📂 **Challenge Documentation**
+
+- [Problem Statement](challenges/challenge-01-website-building/problem-statement.md)
+- [Website Requirements](challenges/challenge-01-website-building/requirements.md)
+- [Rules & Regulations](challenges/challenge-01-website-building/rules.md)
+- [Evaluation Criteria](challenges/challenge-01-website-building/evaluation-criteria.md)
+- [Submission Guidelines](challenges/challenge-01-website-building/submission-guidelines.md)
 
 ---
 
-## 📝 REGISTRATION
+### 💡 CHALLENGE 02 — REAL-WORLD PROBLEM & SOLUTION
 
-All interested participants must complete the registration form.
+**Identify. Innovate. Solve.**
 
-### [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSfiNUxgTFl5OUxDKGxGDlW-bbP6dp5K-6jYpWEdOtIbNw8vig/viewform)
+Identify a real-world problem and develop an innovative technology-based solution that creates a meaningful impact on society.
+
+**🎯 Focus Areas**
+
+- 🔍 Real-World Problem Identification
+- 💡 Innovative Thinking
+- 🧠 Technology-Based Solutions
+- 🛠️ Practical Implementation
+- 🌍 Social Impact
+- 🚀 Creative Problem Solving
+
+**Objective:** Convert real-world challenges into meaningful and practical solutions.
+
+📂 [Explore Challenge 02](challenges/challenge-02-real-world-solutions/README.md)
+
+---
+
+## 📝 OFFICIAL REGISTRATION
+
+<div align="center">
+
+### Ready to take the challenge?
+
+Register yourself and become part of CODESTORM 2026!
+
+<br>
+
+[![REGISTER NOW](https://img.shields.io/badge/REGISTER%20NOW-Click%20Here-success?style=for-the-badge&logo=googleforms)](https://docs.google.com/forms/d/e/1FAIpQLSfiNUxgTFl5OUxDKGxGDlW-bbP6dp5K-6jYpWEdOtIbNw8vig/viewform)
+
+**Complete the registration form to participate.**
+
+</div>
 
 ---
 
 ## 💬 JOIN OUR WHATSAPP COMMUNITIES
 
-**GDG on Campus – RIT Hassan Community**
+Stay connected with the organizers and never miss an important announcement.
 
-[Join Official WhatsApp Community](https://chat.whatsapp.com/Ep2J8GpmRBoF0Fj3A5eks1)
+### 🌐 GDG on Campus – RIT Hassan Community
 
-**November Edition – Events Group**
+Join our official community for technical discussions, announcements, learning opportunities, and updates.
 
-[Join November Edition Group](https://chat.whatsapp.com/IbvN7a5LEGpGqVoffjDWPw)
+[![Join Community](https://img.shields.io/badge/Join-Official%20GDG%20Community-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Ep2J8GpmRBoF0Fj3A5eks1)
 
-Join the groups to receive event announcements, updates, instructions, and important information.
+### 📢 November Edition – Events Group
 
----
+Join the dedicated November Edition group for CODESTORM 2026 announcements, challenge instructions, submission updates, and event communication.
 
-## 📌 EVENT INFORMATION
-
-| Category | Details |
-|---|---|
-| Event | CODESTORM 2026 |
-| Edition | November Edition |
-| Organizer | GDG on Campus – RIT Hassan |
-| Institution | Rajeev Institute of Technology |
-| Department | Computer Science and Engineering |
-| Participation | Individual / Team |
-| Difficulty | Beginner to Advanced |
-| Registration | Online Google Form |
+[![Join Events Group](https://img.shields.io/badge/Join-November%20Events%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/IbvN7a5LEGpGqVoffjDWPw)
 
 ---
 
-## 📜 GENERAL INSTRUCTIONS
+## 📜 GENERAL RULES & INSTRUCTIONS
 
-1. Participants must complete the official registration form.
-2. Read the respective challenge requirements carefully.
-3. Submit original work.
-4. Clearly explain your implementation and technologies used.
-5. Follow the submission guidelines.
-6. Join the official WhatsApp groups for announcements.
-7. Follow academic integrity and maintain professional conduct.
+1. Participants must complete the official registration process.
+2. Read all challenge-specific problem statements and requirements.
+3. Submit original work and maintain academic integrity.
+4. Clearly explain the implementation and technologies used.
+5. Follow the official submission guidelines.
+6. Join the November Edition WhatsApp group for important announcements.
+7. Ensure all submitted links are publicly accessible.
+8. Follow professional conduct throughout the event.
+9. The organizers' decision regarding evaluation will be final.
 
 ---
 
 ## 👨‍💻 STUDENT COORDINATOR
 
-**Yashawantha H M**  
-GDG on Campus – RIT Hassan
+<div align="center">
+
+### Yashawantha H M
+
+**Student Coordinator**  
+Google Developer Groups on Campus  
+Rajeev Institute of Technology, Hassan
+
+</div>
 
 ---
 
 ## 🌟 OUR MISSION
 
-To encourage students to learn, build, collaborate, innovate, and develop technology-driven solutions for real-world challenges.
+To build a collaborative student developer community where ideas become reality through technology, creativity, innovation, and teamwork.
 
-**Learn Together. Build Together. Grow Together.**
+We believe in learning by building, sharing knowledge, and creating solutions that make a difference.
+
+<div align="center">
+
+### LEARN TOGETHER. BUILD TOGETHER. GROW TOGETHER.
+
+**Are you ready to CODESTORM?** 🚀
 
 ---
 
+🌐 [Official Website](https://gdg-rit-website.vercel.app/)
+
+📸 [Instagram – @gdg_club_rit](https://www.instagram.com/gdg_club_rit/)
+
+💻 [GitHub Repository](https://github.com/Yashawantha26/codestorm-2026)
+
+📧 Contact the event organizers through the official community.
+
+---
+
+**Organized with ❤️ by GDG on Campus – RIT Hassan**
+
 *Developed and maintained by Yashawantha H M.*
+
+</div>
