@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gdg-club-logo.png" alt="GDG on Campus RIT Hassan Logo" width="150">
+<img src="assets/GDG_CLUB-logo.jpeg" alt="GDG on Campus RIT Hassan Logo" width="160">
 
 # 🚀 CODESTORM 2026
 
@@ -12,42 +12,43 @@
 
 A community-driven technical challenge to encourage creativity, innovation, coding, and real-world problem-solving.
 
-[![Event](https://img.shields.io/badge/Event-CODESTORM%202026-blue)](https://github.com/Yashawantha26/codestorm-2026)
-[![Edition](https://img.shields.io/badge/Edition-November%202026-orange)](https://github.com/Yashawantha26/codestorm-2026)
-[![Challenges](https://img.shields.io/badge/Challenges-02-green)](https://github.com/Yashawantha26/codestorm-2026)
-[![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-purple)](https://github.com/Yashawantha26/codestorm-2026)
-=======
-[![Event](https://img.shields.io/badge/EVENT-CODESTORM%202026-blue?style=for-the-badge)](https://github.com/Yashawantha26/codestorm-2026)
-[![Edition](https://img.shields.io/badge/EDITION-NOVEMBER%202026-orange?style=for-the-badge)](https://github.com/Yashawantha26/codestorm-2026)
-[![Community](https://img.shields.io/badge/COMMUNITY-GDG%20ON%20CAMPUS-green?style=for-the-badge)](https://gdg-rit-website.vercel.app/)
-
-**Welcome to CODESTORM 2026!**
-
-A technical challenge initiative organized by Google Developer Groups on Campus – Rajeev Institute of Technology, Hassan.
-
-CODESTORM is a platform for passionate student developers to explore technology, showcase creativity, strengthen technical skills, solve real-world problems, and transform innovative ideas into working solutions.
+![Event](https://img.shields.io/badge/EVENT-CODESTORM%202026-blue?style=for-the-badge)
+![Edition](https://img.shields.io/badge/EDITION-NOVEMBER%202026-orange?style=for-the-badge)
+![Challenges](https://img.shields.io/badge/CHALLENGES-02-green?style=for-the-badge)
+![Level](https://img.shields.io/badge/LEVEL-Beginner%20to%20Advanced-purple?style=for-the-badge)
 
 <br>
 
 [🌐 Official Website](https://gdg-rit-website.vercel.app/) •
 [📸 Instagram](https://www.instagram.com/gdg_club_rit/) •
 [📝 Register Now](https://docs.google.com/forms/d/e/1FAIpQLSfiNUxgTFl5OUxDKGxGDlW-bbP6dp5K-6jYpWEdOtIbNw8vig/viewform)
->>>>>>> origin/main
 
 </div>
 
 ---
 
-<<<<<<< HEAD
-## 📌 About CODESTORM 2026
+## 🏛️ About CODESTORM 2026
 
-**CODESTORM 2026 – November Edition** is a technical event organized by **Google Developer Groups on Campus – RIT Hassan**, under the Department of Computer Science and Engineering.
+**CODESTORM 2026 – November Edition** is a technical challenge organized by **Google Developer Groups on Campus – Rajeev Institute of Technology, Hassan**, under the Department of Computer Science and Engineering.
 
-This event provides an opportunity for students to transform their ideas into practical solutions through website development and real-world problem-solving.
+This initiative provides a platform for students to transform ideas into practical solutions through website development, innovative thinking, and real-world problem-solving.
 
-Participants can demonstrate their technical knowledge, creativity, teamwork, and innovation by developing projects that address meaningful challenges.
+Participants can demonstrate their technical knowledge, creativity, teamwork, and problem-solving abilities.
 
-## 🎯 Event Information
+## 🏫 Organization Logo Preview
+
+<div align="center">
+
+| GDG Club | College | Department |
+|:---:|:---:|:---:|
+| <img src="assets/GDG_CLUB-logo.jpeg" width="130" alt="GDG Club Logo"> | <img src="assets/Clg-Logo.jpeg" width="130" alt="RIT College Logo"> | <img src="assets/Dept-Logo.jpeg" width="130" alt="CSE Department Logo"> |
+| **GDG on Campus** | **RIT Hassan** | **CSE Department** |
+
+</div>
+
+---
+
+## 📌 Event Information
 
 | Details | Information |
 |---|---|
@@ -63,20 +64,9 @@ Participants can demonstrate their technical knowledge, creativity, teamwork, an
 
 ---
 
-## 📚 Event Documentation
-
-Explore the official event documents to understand CODESTORM 2026.
-
-| Document | Description |
-|---|---|
-| 📌 [Event Overview](documents/event-overview.md) | Introduction, objectives, and event information |
-| 📋 [Event Rules](documents/event-rules.md) | Official rules and regulations |
-| 📘 [Participant Guidelines](documents/event-guidelines.md) | Development and participation guidelines |
-| 📝 [Registration Details](documents/registration-details.md) | Registration process and event links |
-
----
-
 ## 🏆 Challenges
+
+Two exciting technical challenges designed to encourage creativity, innovation, and practical development skills.
 
 ### 💻 Challenge 01 – Website Building Challenge
 
@@ -84,9 +74,19 @@ Explore the official event documents to understand CODESTORM 2026.
 
 Build a professional, responsive, and interactive website for a meaningful purpose.
 
-Participants can develop websites based on college communities, education, technology, businesses, agriculture, healthcare, social impact, or innovative ideas.
+Participants can develop websites based on:
+
+- Education and learning
+- College and student communities
+- Technology and innovation
+- Business and entrepreneurship
+- Agriculture and rural development
+- Healthcare and well-being
+- Environment and sustainability
+- Social impact
 
 **Key Requirements:**
+
 - Professional and attractive UI/UX.
 - Responsive design for mobile, tablet, and desktop.
 - College, department, and GDG club logos.
@@ -95,7 +95,7 @@ Participants can develop websites based on college communities, education, techn
 - Public website deployment.
 - GitHub source code.
 
-**Challenge 01 Documentation:**
+**Challenge 01 Documentation**
 
 | Document | Link |
 |---|---|
@@ -110,19 +110,28 @@ Participants can develop websites based on college communities, education, techn
 
 **Theme: Identify • Innovate • Solve**
 
-Identify a real-world problem and propose or develop a practical, innovative solution using technology.
-
-Participants are encouraged to explore problems from different domains and demonstrate how their ideas can create a positive impact.
+Identify a genuine real-world problem and propose or develop an innovative, practical solution using technology.
 
 **Suggested Domains:**
-- Education and Learning
-- Agriculture and Rural Development
-- Healthcare and Well-being
-- Environment and Sustainability
-- Transportation and Safety
-- Technology and Society
 
-**Challenge 02 Documentation:**
+- Education and learning
+- Agriculture and rural development
+- Healthcare and well-being
+- Environment and sustainability
+- Transportation and safety
+- Technology and society
+- Social impact
+
+**Expected Focus Areas:**
+
+- Real-world problem identification.
+- Understanding the root cause.
+- Innovative solution development.
+- Technology and implementation approach.
+- Practical feasibility.
+- Positive social impact.
+
+**Challenge 02 Documentation**
 
 - [Challenge Overview](challenges/challenge-02-real-world-solutions/README.md)
 - [Problem Statement](challenges/challenge-02-real-world-solutions/problem-statement.md)
@@ -143,21 +152,34 @@ Participants are encouraged to explore problems from different domains and demon
 | Project Presentation | 5 |
 | **Total** | **100** |
 
-*Refer to the detailed evaluation document. Final criteria are subject to organizer approval.*
+*Refer to the detailed evaluation document for complete criteria.*
 
 ---
 
-## 📝 Registration
+## 📚 Official Event Documentation
 
-Ready to participate in CODESTORM 2026?
+Explore the official event documents to understand CODESTORM 2026.
 
-Complete the official registration form.
+| Document | Description |
+|---|---|
+| [Event Overview](documents/event-overview.md) | Introduction, objectives, and event information |
+| [Event Rules](documents/event-rules.md) | Official rules and regulations |
+| [Participant Guidelines](documents/event-guidelines.md) | Development and participation guidelines |
+| [Registration Details](documents/registration-details.md) | Registration process and event links |
+
+---
+
+## 📝 Official Registration
 
 <div align="center">
 
-### 🚀 REGISTER NOW
+### 🚀 Ready to take the challenge?
 
-[![Register Now](https://img.shields.io/badge/REGISTER%20NOW-Click%20Here-success?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSfiNUxgTFl5OUxDKGxGDlW-bbP6dp5K-6jYpWEdOtIbNw8vig/viewform)
+Register yourself and become part of CODESTORM 2026!
+
+<br>
+
+[![REGISTER NOW](https://img.shields.io/badge/REGISTER%20NOW-Click%20Here-success?style=for-the-badge&logo=googleforms)](https://docs.google.com/forms/d/e/1FAIpQLSfiNUxgTFl5OUxDKGxGDlW-bbP6dp5K-6jYpWEdOtIbNw8vig/viewform)
 
 </div>
 
@@ -165,35 +187,37 @@ Complete the official registration form.
 
 ---
 
-## 🌐 Connect With Us
+## 💬 Join Our WhatsApp Communities
 
 Stay connected with GDG on Campus – RIT Hassan.
 
-| Platform | Link |
-|---|---|
-| Official Website | [Visit GDG RIT Hassan](https://gdg-rit-website.vercel.app/) |
-| Instagram | [@gdg_club_rit](https://www.instagram.com/gdg_club_rit/) |
-| GDG WhatsApp Community | [Join Community](https://chat.whatsapp.com/Ep2J8GpmRBoF0Fj3A5eks1) |
-| November Edition Group | [Join Event Group](https://chat.whatsapp.com/IbvN7a5LEGpGqVoffjDWPw) |
+### 🌐 Official GDG Community
+
+[![Join Community](https://img.shields.io/badge/Join-Official%20GDG%20Community-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Ep2J8GpmRBoF0Fj3A5eks1)
+
+### 📢 November Edition Event Group
+
+[![Join Events Group](https://img.shields.io/badge/Join-November%20Events%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/IbvN7a5LEGpGqVoffjDWPw)
 
 ---
 
-## 📋 General Rules and Guidelines
+## 📜 General Rules and Guidelines
 
 1. Participants must complete the official registration process.
-2. Follow the rules and requirements of the selected challenge.
+2. Read all challenge-specific problem statements and requirements.
 3. Submit original work and provide appropriate credit to third-party resources.
 4. AI tools and open-source resources may be used responsibly.
 5. Participants must understand and explain their submitted projects.
 6. Follow the official submission instructions and deadlines announced by the organizers.
 7. Maintain respectful communication with participants, judges, and organizers.
 8. Plagiarism and unfair practices are prohibited.
+9. Ensure submitted links are publicly accessible.
 
 ---
 
 ## 🛠️ Useful Developer Resources
 
-Explore useful resources for project development and learning.
+Explore these resources to improve your development skills.
 
 - [HTML, CSS and JavaScript – MDN](https://developer.mozilla.org/)
 - [React Documentation](https://react.dev/)
@@ -215,10 +239,10 @@ codestorm-2026/
 ├── README.md
 │
 ├── assets/
-│   ├── gdg-club-logo.png
-│   ├── college-logo.png
-│   ├── department-logo.png
-│   └── codestorm-banner.png
+│   ├── Clg-Logo.jpeg
+│   ├── Dept-Logo.jpeg
+│   ├── GDG_CLUB-logo.jpeg
+│   └── gdg form photo.jpg
 │
 ├── documents/
 │   ├── event-overview.md
@@ -256,151 +280,12 @@ To create a collaborative developer community where students learn, build, share
 
 ## 👨‍💻 Student Coordinator
 
-**Yashawantha H M**
-
-Student Coordinator  
-Google Developer Groups on Campus – RIT Hassan
-
----
-
-<div align="center">
-
-### 🚀 CODESTORM 2026 – NOVEMBER EDITION
-
-**Think. Create. Innovate. Build the Future.**
-
-GDG ON CAMPUS – RIT HASSAN
-
-Developed and maintained by **Yashawantha H M**
-
-⭐ If you find this repository useful, consider giving it a star!
-
-</div>
-=======
-## 🏛️ ABOUT THE EVENT
-
-| Details | Information |
-|:---|:---|
-| 🚀 Event Name | CODESTORM 2026 |
-| 📅 Edition | November Edition |
-| 🏢 Organizer | GDG on Campus – RIT Hassan |
-| 🎓 Institution | Rajeev Institute of Technology, Hassan |
-| 💻 Department | Computer Science and Engineering |
-| 👥 Participation | Individual / Team |
-| ⚡ Difficulty | Beginner to Advanced |
-| 🌐 Mode | Online Registration |
-
----
-
-## 🏆 CHALLENGES
-
-Two exciting technical challenges designed to encourage creativity, innovation, and practical development skills.
-
-### 💻 CHALLENGE 01 — WEBSITE BUILDING CHALLENGE
-
-**Design. Develop. Deploy.**
-
-Build a professional, responsive, and interactive website that demonstrates your frontend or full-stack development capabilities.
-
-**🎯 Focus Areas**
-
-- 🎨 Creative UI/UX Design
-- 📱 Responsive Web Development
-- 💻 Frontend Development
-- ⚙️ Full-Stack Development
-- 🗄️ Database Integration
-- 🚀 Real-World Functionality
-
-**Objective:** Transform your ideas into a functional and professional website.
-
-📂 **Challenge Documentation**
-
-- [Problem Statement](challenges/challenge-01-website-building/problem-statement.md)
-- [Website Requirements](challenges/challenge-01-website-building/requirements.md)
-- [Rules & Regulations](challenges/challenge-01-website-building/rules.md)
-- [Evaluation Criteria](challenges/challenge-01-website-building/evaluation-criteria.md)
-- [Submission Guidelines](challenges/challenge-01-website-building/submission-guidelines.md)
-
----
-
-### 💡 CHALLENGE 02 — REAL-WORLD PROBLEM & SOLUTION
-
-**Identify. Innovate. Solve.**
-
-Identify a real-world problem and develop an innovative technology-based solution that creates a meaningful impact on society.
-
-**🎯 Focus Areas**
-
-- 🔍 Real-World Problem Identification
-- 💡 Innovative Thinking
-- 🧠 Technology-Based Solutions
-- 🛠️ Practical Implementation
-- 🌍 Social Impact
-- 🚀 Creative Problem Solving
-
-**Objective:** Convert real-world challenges into meaningful and practical solutions.
-
-📂 [Explore Challenge 02](challenges/challenge-02-real-world-solutions/README.md)
-
----
-
-## 📝 OFFICIAL REGISTRATION
-
-<div align="center">
-
-### Ready to take the challenge?
-
-Register yourself and become part of CODESTORM 2026!
-
-<br>
-
-[![REGISTER NOW](https://img.shields.io/badge/REGISTER%20NOW-Click%20Here-success?style=for-the-badge&logo=googleforms)](https://docs.google.com/forms/d/e/1FAIpQLSfiNUxgTFl5OUxDKGxGDlW-bbP6dp5K-6jYpWEdOtIbNw8vig/viewform)
-
-**Complete the registration form to participate.**
-
-</div>
-
----
-
-## 💬 JOIN OUR WHATSAPP COMMUNITIES
-
-Stay connected with the organizers and never miss an important announcement.
-
-### 🌐 GDG on Campus – RIT Hassan Community
-
-Join our official community for technical discussions, announcements, learning opportunities, and updates.
-
-[![Join Community](https://img.shields.io/badge/Join-Official%20GDG%20Community-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Ep2J8GpmRBoF0Fj3A5eks1)
-
-### 📢 November Edition – Events Group
-
-Join the dedicated November Edition group for CODESTORM 2026 announcements, challenge instructions, submission updates, and event communication.
-
-[![Join Events Group](https://img.shields.io/badge/Join-November%20Events%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/IbvN7a5LEGpGqVoffjDWPw)
-
----
-
-## 📜 GENERAL RULES & INSTRUCTIONS
-
-1. Participants must complete the official registration process.
-2. Read all challenge-specific problem statements and requirements.
-3. Submit original work and maintain academic integrity.
-4. Clearly explain the implementation and technologies used.
-5. Follow the official submission guidelines.
-6. Join the November Edition WhatsApp group for important announcements.
-7. Ensure all submitted links are publicly accessible.
-8. Follow professional conduct throughout the event.
-9. The organizers' decision regarding evaluation will be final.
-
----
-
-## 👨‍💻 STUDENT COORDINATOR
-
 <div align="center">
 
 ### Yashawantha H M
 
-**Student Coordinator**  
+**Student Coordinator**
+
 Google Developer Groups on Campus  
 Rajeev Institute of Technology, Hassan
 
@@ -408,33 +293,32 @@ Rajeev Institute of Technology, Hassan
 
 ---
 
-## 🌟 OUR MISSION
+## 🌐 Connect With Us
 
-To build a collaborative student developer community where ideas become reality through technology, creativity, innovation, and teamwork.
+| Platform | Link |
+|---|---|
+| Official Website | [GDG RIT Hassan](https://gdg-rit-website.vercel.app/) |
+| Instagram | [@gdg_club_rit](https://www.instagram.com/gdg_club_rit/) |
+| GitHub Repository | [CODESTORM 2026](https://github.com/Yashawantha26/codestorm-2026) |
+| GDG WhatsApp Community | [Join Community](https://chat.whatsapp.com/Ep2J8GpmRBoF0Fj3A5eks1) |
+| November Event Group | [Join Group](https://chat.whatsapp.com/IbvN7a5LEGpGqVoffjDWPw) |
 
-We believe in learning by building, sharing knowledge, and creating solutions that make a difference.
+---
 
 <div align="center">
 
-### LEARN TOGETHER. BUILD TOGETHER. GROW TOGETHER.
+# 🚀 CODESTORM 2026 – NOVEMBER EDITION
 
-**Are you ready to CODESTORM?** 🚀
+### Think. Create. Innovate. Build the Future.
 
----
+**GDG ON CAMPUS – RIT HASSAN**
 
-🌐 [Official Website](https://gdg-rit-website.vercel.app/)
+**LEARN TOGETHER. BUILD TOGETHER. GROW TOGETHER.**
 
-📸 [Instagram – @gdg_club_rit](https://www.instagram.com/gdg_club_rit/)
+Organized with ❤️ by GDG on Campus – RIT Hassan.
 
-💻 [GitHub Repository](https://github.com/Yashawantha26/codestorm-2026)
+Developed and maintained by **Yashawantha H M**.
 
-📧 Contact the event organizers through the official community.
-
----
-
-**Organized with ❤️ by GDG on Campus – RIT Hassan**
-
-*Developed and maintained by Yashawantha H M.*
+⭐ If you find this repository useful, consider giving it a star!
 
 </div>
->>>>>>> origin/main
