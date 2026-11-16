@@ -25,24 +25,7 @@ The main objective is to build a complete website that:
 - Uses the official logos provided by the organizers.
 - Is deployed and accessible through a public website link.
 
-## 3. Suggested Website Domains
-
-Participants can select any suitable domain, including:
-
-1. Education and E-Learning
-2. College and Department Websites
-3. Student Clubs and Communities
-4. Business and E-Commerce
-5. Healthcare and Wellness
-6. Agriculture and Farmer Support
-7. Environment and Sustainability
-8. Event Management
-9. Personal Portfolio
-10. Social Impact and Community Services
-
-These are suggestions. Participants may propose other innovative website ideas.
-
-## 4. Mandatory Website Requirements
+## 3. Mandatory Website Requirements
 
 Every submitted website must include the following:
 
@@ -65,7 +48,7 @@ The website must display all three official logos:
 5. **Contact:** Contact information, communication links, or a functional contact form.
 6. **Footer:** Copyright information and relevant social or useful links.
 
-## 5. Technical Requirements
+## 4. Technical Requirements
 
 - Responsive design for mobile, tablet, and desktop.
 - Functional navigation and buttons.
@@ -78,7 +61,7 @@ The website must display all three official logos:
 - Public deployment of the completed website.
 - Public GitHub repository containing the source code.
 
-## 6. Suggested Technologies
+## 5. Suggested Technologies
 
 Participants may use any suitable technologies.
 
@@ -90,7 +73,7 @@ Participants may use any suitable technologies.
 
 These technologies are suggestions, not restrictions.
 
-## 7. Optional Advanced Features
+## 6. Optional Advanced Features
 
 Participants can improve their projects by implementing:
 
@@ -107,7 +90,7 @@ Participants can improve their projects by implementing:
 
 These features are optional and may help demonstrate additional technical skills.
 
-## 8. Expected Deliverables
+## 7. Expected Deliverables
 
 Participants must prepare:
 
@@ -119,7 +102,7 @@ Participants must prepare:
 
 Additional screenshots, videos, or presentations may be requested by the organizers.
 
-## 9. Evaluation
+## 8. Evaluation
 
 Projects will be evaluated based on:
 
@@ -133,7 +116,7 @@ Projects will be evaluated based on:
 
 Refer to [evaluation-criteria.md](evaluation-criteria.md) for the proposed marking distribution.
 
-## 10. Important Instructions
+## 9. Important Instructions
 
 - Original work is encouraged.
 - Copying another participant's complete project is not allowed.
@@ -142,7 +125,7 @@ Refer to [evaluation-criteria.md](evaluation-criteria.md) for the proposed marki
 - All mandatory requirements must be satisfied.
 - Submission instructions and deadlines will be announced by the organizers.
 
-## 11. Event Information
+## 10. Event Information
 
 **Event:** CODESTORM 2026 – November Edition  
 **Organizer:** GDG on Campus – RIT Hassan  
