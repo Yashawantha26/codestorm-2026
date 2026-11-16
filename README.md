@@ -74,17 +74,6 @@ Two exciting technical challenges designed to encourage creativity, innovation, 
 
 Build a professional, responsive, and interactive website for a meaningful purpose.
 
-Participants can develop websites based on:
-
-- Education and learning
-- College and student communities
-- Technology and innovation
-- Business and entrepreneurship
-- Agriculture and rural development
-- Healthcare and well-being
-- Environment and sustainability
-- Social impact
-
 **Key Requirements:**
 
 - Professional and attractive UI/UX.
