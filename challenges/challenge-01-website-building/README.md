@@ -37,19 +37,6 @@ Develop a professional, responsive, interactive, and user-friendly website based
 
 Participants can choose their own website concept, provided it meets the mandatory requirements.
 
-### Suggested Website Domains
-
-1. Education and Learning Platforms.
-2. College and Department Websites.
-3. Technology and Developer Communities.
-4. Business and Startup Websites.
-5. Agriculture and Farmer Support.
-6. Healthcare and Wellness.
-7. Environment and Sustainability.
-8. Social Impact Platforms.
-9. Event Management Websites.
-10. Innovative Digital Solutions.
-
 ## 🏛️ Mandatory Branding Requirements
 
 Every submitted website must include the following logos:
